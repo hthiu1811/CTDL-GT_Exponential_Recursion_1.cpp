@@ -1,6 +1,6 @@
 # CTDL-GT_Exponential_Recursion_1.cpp
 Exponential Recursion
-Nguồn tham khảo : 
+Nguồn tham khảo : https://codehow.net/de-quy-da-tuyen-exponential-recursion-trong-c-c++-90.html
 *  Cai đặt : 
 
 + Hàm đệ quy đa tuyến (Exponential Recursion) là một hàm mà khi chúng ta gọi đệ quy, 
